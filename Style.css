@@ -1,14 +1,72 @@
-p{
+/* p{
     color: blue;
     background-color: red;
     text-align: center;
-}
+} */
 
-.p{
+/* .p{
     color: green;
     background-color: aqua;
 }
 
 #jk{
     font-size: 25px;
+}
+
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 100px;
+} */
+
+/* div{
+    border: 10px solid grey;
+      height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 10px;
+    margin: 100px;
+    display: inline-block;
+}
+.box1{
+    background-color: pink;
+    padding: 10px;
+    margin: 100px;
+}
+
+
+
+
+.box2{ */
+    /* background-color: yellow;
+    padding: 10px;
+    margin: 100px;
+} */
+/* 
+#abc{
+    font-size: 22px;
+} */
+
+div{
+    border: 5px solid black;
+    padding: 5px;
+    height: 100px;
+    width:1500px
+}
+
+h2{
+    color: purple;
+    text-align: center;
+
+}
+
+
+p{
+    color: red;
+
+
 }
