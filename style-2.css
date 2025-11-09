@@ -1,0 +1,18 @@
+.box {
+    border: 4.5px solid black;
+    width: 600px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.inner-box {
+    background-color: blue;
+    padding: 40px;
+    border: none;
+}
+
+.content {
+    background-color: yellow;
+    text-align: center;
+    padding: 30px;
+}
