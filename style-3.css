@@ -1,4 +1,4 @@
- .box1{
+ /* .box1{
     background-color: pink;
     padding: 10px;
     margin: 100px;
@@ -8,4 +8,27 @@
     background-color: yellow;
     padding: 10px;
     margin: 100px;
-}
+} */
+
+
+        .block-example {
+            border: 2px solid Grey ;
+            padding: 20px;
+            max-width: 600px;
+            margin: 40px auto;
+        }
+        h2 {
+            font-size: 24px;
+        }
+        .heading {
+            background-color: aquamarine;
+            padding: 10px;
+            font-size: 32px;
+            font-weight: bold;
+        }
+        .description {
+            background-color: #ddf8d7;
+            padding: 10px;
+            color: #276730;
+            margin-top: 10px;
+        }
