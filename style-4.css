@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    border: 1px solid black;
+    /* flex-direction: column; */
+    flex-wrap: wrap-reverse;
+
+
+
+
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 1px solid black;
+}
