@@ -1,18 +1,32 @@
 .container{
     display: flex;
-    height: 200px;
-    width: 300px;
+    height: 600px;
+    width: 1200px;
     background-color: aqua;
     border: 1px solid black;
     /* flex-direction: column; */
-    flex-wrap: wrap-reverse;
+    /* flex-wrap: wrap; */
+    /* justify-content: space-around;
+    align-items: center;
+    align-content: space-between; */
+    gap: 20px;
 
+}
 
 
 
 .item{
-    height: 100px;
-    width: 100px;
-    background-color: brown;
+    height: 200px;
+    width: 200px;
+    background-color: white;
     border: 1px solid black;
+    flex-grow: 1;
+
+}
+
+
+.item2{
+    order: -1;
+    flex-grow: 2;
+    align-self: flex-end ;
 }
