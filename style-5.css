@@ -10,8 +10,8 @@
     gap: 10px;
     justify-items: center;
     align-items: center;
-    justify-content: center;
-    align-content: center;
+    justify-content: space-evenly;
+    align-content: space-around;
 
 
 
@@ -20,7 +20,7 @@
 .item {
      height: 100px;
     width: 100px; 
-    background-color: brown;
+    background-color: blue;
     border: 1px solid black;
     color: white;
     text-align: center;
