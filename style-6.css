@@ -1,0 +1,26 @@
+/* @media(max-width: 768px){
+    body{
+        background-color: red;
+    }
+} */
+
+
+.box{
+    height: 100px;
+    width: 100%;
+    background-color: green;
+}
+
+
+@media(min-width:768px){
+   .box{
+     background-color: blue;
+   }
+}
+
+
+@media(min-width:1024px){
+   .box{
+     background-color: red;
+   }
+}
